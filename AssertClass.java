@@ -24,6 +24,7 @@ public class AssertClass {
 	@Test
 	public void assetNull() {
 		assertNull(null);
+		//sysout
 	}
 	@Test
 	public void assetNotNull() {
